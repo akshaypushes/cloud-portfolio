@@ -12,6 +12,8 @@ This repo documents my hands-on labs, certifications, and project work as I purs
 | # | Course | Badge | Notes |
 |---|--------|-------|-------|
 | 01 | Digital Transformation with Google Cloud | ![badge](certifications/01-digital-transformation-intro/badge.png) | [Summary & Notes](certifications/01-digital-transformation-intro/summary.md) |
+| 02 | Exploring Data Transformation with Google Cloud | ![badge](certifications/02-exploring-data-transformation/badge.png) | [Summary & Notes](certifications/02-exploring-data-transformation/summary.md) |
+
 
 ## 🚀 Upcoming Projects
 - [ ] Serverless thumbnailer (Cloud Functions + GCS)
