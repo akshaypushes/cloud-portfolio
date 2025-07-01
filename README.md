@@ -13,6 +13,8 @@ This repo documents my hands-on labs, certifications, and project work as I purs
 |---|--------|-------|-------|
 | 01 | Digital Transformation with Google Cloud | ![badge](certifications/01-digital-transformation-intro/badge.png) | [Summary & Notes](certifications/01-digital-transformation-intro/summary.md) |
 | 02 | Exploring Data Transformation with Google Cloud | ![badge](certifications/02-exploring-data-transformation/badge.png) | [Summary & Notes](certifications/02-exploring-data-transformation/summary.md) |
+| 03 | Innovating with Google Cloud Artificial Intelligence | ![badge](certifications/03-innovating-google-cloud-ai/badge.png) | [Summary & Notes](certifications/03-innovating-google-cloud-ai/summary.md) |
+
 
 
 ## 🚀 Upcoming Projects
